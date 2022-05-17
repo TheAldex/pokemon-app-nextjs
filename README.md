@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Pokemon List App
+This is an App that lists all the pokemons avaliable at the moment using PokeAPI (https://pokeapi.co/) and ReactJs (https://reactjs.org) with NextJs (https://nextjs.org/) by Vercel.
+
 ## Getting Started
 
 First, run the development server:
